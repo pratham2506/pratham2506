@@ -1,7 +1,7 @@
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--yV12QsCH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/exblnmebmhljmubqya7c.png" height="100%" width="100%"/>
 <h1 align="center">Hi 👋, I'm Pratham Matkar</h1>
 <h3 align="center">Mastering the art of technology</h3>
-<!-- <img align="right" alt="Coding" width="410" src="https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg"> -->
+
 - 🌱 I’m currently learning **React JS, Python & libraries, JS, IoT**
 
 - 👨‍💻 All of my projects are available at [https://pratham2506.github.io/myportfolio/](https://pratham2506.github.io/myportfolio/)
