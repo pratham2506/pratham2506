@@ -33,8 +33,8 @@ Quick learner & Active IT Enthusiast with a passion for transforming complex tec
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pratham2506&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/j-j-gajjar)
 
 <h3>Github Stats</h3>
-<a href="https://github-readme-stats.vercel.app/api?username=CoderJava&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false" target="_blank"><img alt="Github Stats 1" src="https://github-readme-stats.vercel.app/api?username=CoderJava&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false" /></a>
+<a href="https://github-readme-stats.vercel.app/api?username=pratham2506&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false" target="_blank"><img alt="Github Stats 1" src="https://github-readme-stats.vercel.app/api?username=pratham2506&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false" /></a>
 <br />
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=CoderJava&theme=vue-dark&hide_border=true" target="_blank"><img alt="Github Stats 2" src="https://github-readme-streak-stats.herokuapp.com/?user=CoderJava&theme=vue-dark&hide_border=true" /></a>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=pratham2506&theme=vue-dark&hide_border=true" target="_blank"><img alt="Github Stats 2" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham2506&theme=vue-dark&hide_border=true" /></a>
 <br />
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderJava&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" target="_blank"><img alt="Github Stats 3" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderJava&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham2506&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" target="_blank"><img alt="Github Stats 3" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham2506&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a>
