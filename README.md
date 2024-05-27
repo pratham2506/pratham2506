@@ -30,7 +30,7 @@ Quick learner & Active IT Enthusiast with a passion for transforming complex tec
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:1000px;" />
 
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pratham2506&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/j-j-gajjar)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pratham2506&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://github.com/pratham2506)
 
 <h3>Github Stats</h3>
 <a href="https://github-readme-stats.vercel.app/api?username=pratham2506&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false" target="_blank"><img alt="Github Stats 1" src="https://github-readme-stats.vercel.app/api?username=pratham2506&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false" /></a>
