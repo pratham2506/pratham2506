@@ -26,13 +26,13 @@ Quick learner & Active IT Enthusiast with a passion for transforming complex tec
 <img align="left" alt="Arduino" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/arduino/arduino-original.svg" style="padding:5px;"/>
 <img align="left" alt="Bitbucket" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bitbucket/bitbucket-original.svg" style="padding:5px;"/>
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" style="padding:5px;"/>
+<img align="left" alt="Jupyter" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jupyter/jupyter-original.svg" style="padding:5px;"/>
+<img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" style="padding:5px;"/>
+<img align="left" alt="PHP" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" style="padding:5px;"/>
 <img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" style="padding:5px;"/>
 <img align="left" alt="Canva" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/canva/canva-original.svg" style="padding:5px;"/>
 <img align="left" alt="Figma" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg" style="padding:5px;"/>
 <img align="left" alt="Firebase" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/firebase/firebase-original.svg" style="padding:5px;"/>
-<img align="left" alt="Jupyter" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jupyter/jupyter-original.svg" style="padding:5px;"/>
-<img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" style="padding:5px;"/>
-<img align="left" alt="PHP" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" style="padding:5px;"/>
 
 
 
